@@ -223,15 +223,7 @@ public class Krishna extends JavaBackendDeveloper {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KrishnaSingh67&theme=tokyonight&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🧩 Coding Profiles
 
@@ -304,6 +296,18 @@ public class Krishna extends JavaBackendDeveloper {
 </div>
 
 ---
+## 💬 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/><br/>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling)
+
+</div>
+---
 
 <div align="center">
 
@@ -311,6 +315,6 @@ public class Krishna extends JavaBackendDeveloper {
 
 **⭐ If you find my work interesting, consider starring my repos!**
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"Code is like humor. When you have to explain it, it's bad." 
 
 </div>
