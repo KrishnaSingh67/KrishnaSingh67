@@ -276,7 +276,6 @@ public class Krishna extends JavaBackendDeveloper {
 
 </div>
 
-> 💡 **Setup the snake:** Add a GitHub Actions workflow to your profile repo — [see instructions here](https://github.com/Platane/snk).
 
 ---
 
